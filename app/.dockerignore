@@ -1,0 +1,2 @@
+# prevent the node_modules in /app from being copying to docker Image
+node_modules
